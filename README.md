@@ -13,7 +13,7 @@ A simple web application to resize PDF files using Ghostscript. Users can upload
 2. **Clone the repository:**
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nicthegreatest/pdf-resizer.git
    cd pdf-resize
    ```
 
